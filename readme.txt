@@ -4,4 +4,4 @@ heihei haha
 Git tracks changes of file 
 boss stupid 
 create a new branck quickly
-google
+google and branch
