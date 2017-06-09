@@ -6,3 +6,4 @@ boss stupid
 create a new branck quickly
 google and branch
 git branch merge on off  
+haha
