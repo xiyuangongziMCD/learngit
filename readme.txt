@@ -7,3 +7,4 @@ create a new branck quickly
 google and branch
 git branch merge on off  
 haha
+commit dev to remote github.com
