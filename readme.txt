@@ -8,3 +8,4 @@ google and branch
 git branch merge on off  
 haha
 commit dev to remote github.com
+windows commit remote github.com
